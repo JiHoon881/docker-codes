@@ -1,7 +1,6 @@
 # 따라하며 배우는 도커와 CI환경
 
 ## 강의에서 배우는 것들
-
 ## Docker
  - Docker Image
  - Docker Container
@@ -26,7 +25,7 @@
  - Dockerrunaws
  - Task Definition
 
-### 실습할 때 사용되는 스택들
+## 실습할 때 사용되는 스택들
  - Node.js
  - React.js
  - Mysql
